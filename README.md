@@ -1,1 +1,1 @@
-Stage Repository. Utilizzo di Aghno per interazione con modelli locali.
+Stage Repository. Utilizzo di Agno per interazione con modelli locali.
